@@ -8,7 +8,7 @@ Recomendación: Ver este código con pinzas en un sistema operativo que no ejecu
 
 ### Nota adicional y disclaimer:
 
-1. La información aquí expuesta está dada por la oposición política de Venezuela, parte de la misma está forkeada del repositorio de [iPince](https://github.com/ipince/) y tomada de bases de datos y URLs que a día de hoy no son accesibles, por los motivos que sean.
+1. La información aquí expuesta está dada por la oposición política de Venezuela, parte de la misma está forkeada del repositorio de [iPince](https://github.com/ipince/) y tomada de bases de datos y URLs que a día de hoy no son accesibles, por los motivos que sean; el repositorio en estudio en sí, es un fork del repo de [andreujuanc](https://github.com/andreujuanc)
 
 2. No me hago responsable de si tu equipo/dispositivo es expuesto a vulnerabilidades luego de clonar este repositorio, sólo estoy haciendo una ligera auditoría a su código para verificar su veracidad y utilidad real.
 
