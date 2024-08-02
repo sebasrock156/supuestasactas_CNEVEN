@@ -1,3 +1,8 @@
+Me parece curioso el uso de Go para escanear los códigos QR, lo curioso, es que, según los scripts, sí o sí tendremos las actas comprimidas para su visualización, por ende, los QR se harían inútiles.
+
+
+---
+
 Script para extraer informacion de las imagenes de actas a traves de su codigo QR.
 
 Para correr, si tienes go:
@@ -19,3 +24,5 @@ tomó 16 minutos.
 
 Creo que si se corre con las imagenes no comprimidas de las actas, debe poder extraer mas informacion.
 O sino, podemos intentar con alguna otra libreria de codigos QR.
+
+---
